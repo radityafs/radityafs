@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on build social impact apps
-- 📫 How to reach me ? you can contact me through email raditya@student.uns.ac.id
+- 📫 How to reach me ? you can contact me through email radit@student.uns.ac.id
 
 <!---
 radityafs/radityafs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
